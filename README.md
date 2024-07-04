@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **santymartinez913@gmail.com**
 
-- ⚡ Fun fact **I know how to play Happy Birthday song in piano**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santiago-lora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-lora" height="30" width="40" /></a>
